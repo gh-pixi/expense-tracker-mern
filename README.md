@@ -29,3 +29,7 @@ change config.env file in config folder
  # Prod
  npm start
 ```
+ # Jenkins cicd 
+add nodejs jenkins plugin
+
+jenkins dashboard > global tool configuration > add nodejs version install
